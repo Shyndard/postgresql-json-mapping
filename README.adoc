@@ -1,0 +1,8 @@
+= Welcome to postgresql-json-mapping
+
+> Experiment object mapping with generated json by postgresql
+
+== Stack
+
+* Java 17
+* Postgresql 14.0
